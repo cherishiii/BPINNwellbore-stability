@@ -1,6 +1,5 @@
 # BPINN Wellbore Stability — Code for Reproducibility
 
-> **Paper**: *Probabilistic Wellbore Stability Assessment for Underground Gas Storage in Depleted Carbonate Reservoirs with Fractured-Vuggy Heterogeneity: A Bayesian Physics-Informed Neural Network Approach*
 
 ## Overview
 
